@@ -9,10 +9,10 @@ A full-stack Smart Attendance Management System built for an Agricultural Colleg
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page](login.png)
 
 ### Principal Dashboard
-![Principal Dashboard](screenshots/principal-dashboard.png)
+![Principal Dashboard](principal-dashboard.png)
 
 ---
 
